@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ss]engokuMonogatari/[Ll]ibrary/
-/[Ss]engokuMonogatari/[Tt]emp/
-/[Ss]engokuMonogatari/[Oo]bj/
-/[Ss]engokuMonogatari/[Bb]uild/
-/[Ss]engokuMonogatari/[Bb]uilds/
-/[Ss]engokuMonogatari/[Ll]ogs/
-/[Ss]engokuMonogatari/[Mm]emoryCaptures/
+/[Dd]ai[Uu]ndoukai/[Ll]ibrary/
+/[Dd]ai[Uu]ndoukai/[Tt]emp/
+/[Dd]ai[Uu]ndoukai/[Oo]bj/
+/[Dd]ai[Uu]ndoukai/[Bb]uild/
+/[Dd]ai[Uu]ndoukai/[Bb]uilds/
+/[Dd]ai[Uu]ndoukai/[Ll]ogs/
+/[Dd]ai[Uu]ndoukai/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
